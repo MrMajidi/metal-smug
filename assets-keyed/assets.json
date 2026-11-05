@@ -1,0 +1,178 @@
+{
+ "hero-idle": {
+  "file": "hero-idle.webp",
+  "w": 441,
+  "h": 471,
+  "frames": 12,
+  "totalMs": 1440,
+  "frameMs": 120,
+  "medianContentH": 470.0,
+  "scaleApplied": 1.0,
+  "bytes": 425994
+ },
+ "hero-run": {
+  "file": "hero-run.webp",
+  "w": 463,
+  "h": 489,
+  "frames": 8,
+  "totalMs": 720,
+  "frameMs": 90,
+  "medianContentH": 470.0,
+  "scaleApplied": 1.031,
+  "bytes": 394972
+ },
+ "hero-shoot": {
+  "file": "hero-shoot.webp",
+  "w": 475,
+  "h": 470,
+  "frames": 10,
+  "totalMs": 1000,
+  "frameMs": 100,
+  "medianContentH": 470.0,
+  "scaleApplied": 0.981,
+  "bytes": 511812
+ },
+ "hero-run-shoot": {
+  "file": "hero-run-shoot.webp",
+  "w": 513,
+  "h": 480,
+  "frames": 8,
+  "totalMs": 720,
+  "frameMs": 90,
+  "medianContentH": 470.0,
+  "scaleApplied": 1.027,
+  "bytes": 419728
+ },
+ "hero-jump": {
+  "file": "hero-jump.webp",
+  "w": 494,
+  "h": 614,
+  "frames": 10,
+  "totalMs": 1100,
+  "frameMs": 110,
+  "medianContentH": 470.0,
+  "scaleApplied": 1.274,
+  "bytes": 483506
+ },
+ "hero-crouch": {
+  "file": "hero-crouch.webp",
+  "w": 453,
+  "h": 481,
+  "frames": 10,
+  "totalMs": 1100,
+  "frameMs": 110,
+  "medianContentH": 470.0,
+  "scaleApplied": 1.005,
+  "bytes": 485396
+ },
+ "hero-hit": {
+  "file": "hero-hit.webp",
+  "w": 458,
+  "h": 477,
+  "frames": 10,
+  "totalMs": 1000,
+  "frameMs": 100,
+  "medianContentH": 470.0,
+  "scaleApplied": 0.996,
+  "bytes": 509300
+ },
+ "hero-death": {
+  "file": "hero-death.webp",
+  "w": 490,
+  "h": 511,
+  "frames": 12,
+  "totalMs": 1440,
+  "frameMs": 120,
+  "medianContentH": 470.0,
+  "scaleApplied": 1.018,
+  "bytes": 688984
+ },
+ "hero-victory": {
+  "file": "hero-victory.webp",
+  "w": 451,
+  "h": 477,
+  "frames": 12,
+  "totalMs": 1320,
+  "frameMs": 110,
+  "medianContentH": 470.0,
+  "scaleApplied": 0.963,
+  "bytes": 553244
+ },
+ "hero-grenade": {
+  "file": "hero-grenade.webp",
+  "w": 477,
+  "h": 471,
+  "frames": 10,
+  "totalMs": 1100,
+  "frameMs": 110,
+  "medianContentH": 470.0,
+  "scaleApplied": 0.987,
+  "bytes": 519656
+ },
+ "grunt-walk": {
+  "file": "grunt-walk.webp",
+  "w": 275,
+  "h": 469,
+  "frames": 8,
+  "totalMs": 800,
+  "frameMs": 100,
+  "medianContentH": 466.5,
+  "scaleApplied": 1.0,
+  "bytes": 170838
+ },
+ "lobber": {
+  "file": "lobber.webp",
+  "w": 458,
+  "h": 478,
+  "frames": 10,
+  "totalMs": 1200,
+  "frameMs": 120,
+  "medianContentH": 410.5,
+  "scaleApplied": 1.0,
+  "bytes": 288210
+ },
+ "tank-idle": {
+  "file": "tank-idle.webp",
+  "w": 448,
+  "h": 407,
+  "frames": 10,
+  "totalMs": 1200,
+  "frameMs": 120,
+  "medianContentH": 383.5,
+  "scaleApplied": 1.0,
+  "bytes": 311416
+ },
+ "explosion": {
+  "file": "explosion.webp",
+  "w": 512,
+  "h": 503,
+  "frames": 10,
+  "totalMs": 1000,
+  "frameMs": 100,
+  "medianContentH": 461.5,
+  "scaleApplied": 1.0,
+  "bytes": 386518
+ },
+ "tank-boom": {
+  "file": "tank-boom.webp",
+  "w": 508,
+  "h": 460,
+  "frames": 12,
+  "totalMs": 1320,
+  "frameMs": 110,
+  "medianContentH": 449.0,
+  "scaleApplied": 1.0,
+  "bytes": 434110
+ },
+ "hero-master": {
+  "file": "hero-master.webp",
+  "w": 979,
+  "h": 998,
+  "frames": 1,
+  "totalMs": 0,
+  "frameMs": 0,
+  "medianContentH": 998.0,
+  "scaleApplied": 1.0,
+  "bytes": 136766
+ }
+}
